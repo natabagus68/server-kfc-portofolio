@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Ayam Goreng KFC",
+    "description": "ayam goreng crispy memiliki kulit yang garing dan renyah karena dilapisi tepung bumbu khas KFC. Rasa kulitnya yang crispy sedikit pedas ini paling enak dinikmati dengan nasi putih dan saus sambal khas KFC.",
+    "price": 19000,
+    "stock": 200,
+    "imgUrl": "https://keluyuran.com/wp-content/uploads/2020/03/Ayam-Goreng-KFC-Copy.jpg",
+    "CategoryId": 1,
+    "AuthorId": 1
+  },
+  {
+    "name": " KFC Snack Bucket",
+    "description": " KFC Snack Bucket. Menu ini merupakan menu bucket dengan isian beberapa snack seperti chicken strip, Fun Fries, KFC Winger dan chicken ball.",
+    "price": 20000,
+    "stock": 200,
+    "imgUrl": "https://keluyuran.com/wp-content/uploads/2021/08/menu-kfc-paling-enak-snack-bucket_.webp",
+    "CategoryId": 2,
+    "AuthorId": 2
+  }
+]

@@ -1,0 +1,18 @@
+[
+  {
+    "username": "Nata Bagus Arisandi",
+    "email": "natabagus@gmail.com",
+    "password": "test123",
+    "role": "admin",
+    "phone": "08515486518",
+    "address": "kediri, jawa timur"
+  },
+  {
+    "username": "Samsudin",
+    "email": "samsudin@gmail.com",
+    "password": "test123",
+    "role": "staff",
+    "phone": "08515486519",
+    "address": "blitar, jawa timur"
+  }
+]

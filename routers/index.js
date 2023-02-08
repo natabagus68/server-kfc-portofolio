@@ -1,0 +1,16 @@
+const router = require("express").Router();
+const login = require("./login/login");
+const product = require("./product/product");
+const register = require("./user/register");
+const user = require("./user/user");
+const categories = require("./category/category");
+const history = require("./history");
+const customers = require("./customer");
+router.use("/login", login);
+router.use("/register", register);
+router.use("/products", product);
+router.use("/user", user);
+router.use("/categories", categories);
+router.use("/history", history);
+router.use("/customers", customers);
+module.exports = router;
